@@ -38,7 +38,7 @@
 
 </a>
 
-<h3 align="center">College project (TBP) - FOI 2020</h3>
+<h3</h3>
 
 <p align="center">
 
