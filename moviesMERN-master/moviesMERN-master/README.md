@@ -42,7 +42,6 @@
 
 <p align="center">
 
-Project for Database theory course at Faculty of Organization and Informatics
 
 <br />
 
