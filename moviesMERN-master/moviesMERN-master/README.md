@@ -38,7 +38,7 @@
 
 </a>
 
-<h3</h3>
+<h3></h3>
 
 <p align="center">
 
