@@ -179,15 +179,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 
-## License
 
-Distributed under the MIT License.
-
-<!-- CONTACT -->
-
-## Contact
-
-Project Link: [https://github.com/kmaodus/moviesMERN](https://github.com/kmaodus/moviesMERN)
 
 <!-- ACKNOWLEDGEMENTS -->
 
